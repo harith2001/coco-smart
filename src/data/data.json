@@ -1,0 +1,325 @@
+{
+  "Header": {
+    "title": "COCO-SMART",
+    "paragraph": "Embodies the future of agricultural automation, revolutionizing traditional supply chains with intelligent, real-time decision-making. Through our groundbreaking fusion of modular software, IoT sensing, and blockchain traceability, we deliver unmatched transparency and responsiveness, setting new benchmarks in operational efficiency and supply chain integrity."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/coconut-main-one.png",
+      "smallImage": "img/portfolio/coconut-main-one.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/harith.png",
+      "name": "IT21308284",
+      "job": "Vithanage H.D"
+    },
+    {
+      "img": "img/team/shehani.png",
+      "name": "IT21291678",
+      "job": "Dehipola H.M.S.N"
+    },
+    {
+      "img": "img/team/kavith.png",
+      "name": "IT21576966",
+      "job": "Weedagamaarachchi_K.S"
+    },
+    {
+      "img": "img/team/ranmini.png",
+      "name": "IT21289484",
+      "job": "K.D.R Manditha"
+    },
+    {
+      "img": "img/team/vishan-sir.png",
+      "name": "Supervisor",
+      "job": "Mr. Vishan Jayasinghearachchi"
+    },
+    {
+      "img": "img/team/jeewaka-sir.png",
+      "name": "Co-Supervisor",
+      "job": "Mr. Jeewaka Perera"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
+  "Milestones": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+
+  "Documents": [
+    {
+      "title": "Project Proposal Presentation",
+      "document": "doc/PPP.pdf"
+    },
+    {
+      "title": "Progress Presentation I",
+      "document": "doc/PP1.pdf"
+    },
+    {
+      "title": "Progress Presentation II",
+      "document": "doc/PP2.pdf"
+    },
+    {
+      "title": "Final VIVA & Presentation",
+      "document": "doc/Final VIVA & Presentation.pdf"
+    },
+    {
+      "title": "Research Paper",
+      "document": "doc/RP.pdf"
+    }
+  ],
+  "ProposalDocument":[
+    {
+      "title": "IT21308284",
+      "document": "doc/IT21308284_Vithanage H.D_Project_Report.pdf"
+    },
+    {
+      "title": "IT21291678",
+      "document": "doc/IT21291678_Dehipola H.M.S.N_Project_Proposal_Report.pdf"
+    },
+    {
+      "title": "IT21576966",
+      "document": "doc/IT21576966_Weedagamaarachchi_K.S_Project_Report.pdf"
+    },
+    {
+      "title": "IT21289484",
+      "document": "doc/IT21289484_K.D.R Manditha_Project_Report.pdf"
+    }
+],
+"StatusDocI":[
+  {
+    "title": "IT21132346",
+    "document": "doc/IT21132346 StatusDoc I.pdf.pdf"
+  },
+  {
+    "title": "IT21096266",
+    "document": "doc/IT21096266 StatusDoc I.pdf"
+  },
+  {
+    "title": "IT21133718",
+    "document": "doc/IT21133718 StatusDoc I.pdf"
+  },
+  {
+    "title": "IT21080562",
+    "document": "doc/IT21080562 StatusDoc I.pdf"
+  }
+],
+"StatusDocII":[
+  {
+    "title": "IT21132346",
+    "document": "doc/IT21132346 StatusDoc II.pdf"
+  },
+  {
+    "title": "IT21096266",
+    "document": "doc/IT21096266 StatusDoc II.pdf"
+  },
+  {
+    "title": "IT21133718",
+    "document": "doc/IT21133718 StatusDoc II.pdf"
+  },
+  {
+    "title": "IT21080562",
+    "document": "doc/IT21080562 StatusDoc II.pdf"
+  }
+],
+"FinalReport":[
+  {
+    "title": "IT21308284",
+    "document": "doc/IT21308284_Vithanage_H.D_Project_Final_Report.pdf"
+  },
+  {
+    "title": "IT21291678",
+    "document": "doc/IT21291678_Dehipola.H.M.S.N_Project_Final_Report.pdf"
+  },
+  {
+    "title": "IT21576966",
+    "document": "doc/IT21576966_Weedagamaarachchi K.S_Final_Report.pdf"
+  },
+  {
+    "title": "IT21289484",
+    "document": "doc/IT21289484_K.D.R Manditha_Project_Final_Report.pdf"
+  },
+  {
+    "title": "Final Group Report",
+    "document": "doc/Final Group Report.pdf"
+  }
+]
+}
