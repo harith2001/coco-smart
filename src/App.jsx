@@ -18,6 +18,12 @@ import { ProposalDocument } from "./components/proposalDocument";
 //import { StatusDocII } from "./components/statusDocII";
 import { FinalReport } from "./components/finalReport";
 import { ResearchGap } from "./components/researchGap";
+import { LiteratureReview } from './components/LiteratureReview';
+import { References } from "./components/References";
+import { FieldVisit } from "./components/FieldVisit";
+
+
+
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -35,8 +41,10 @@ const App = () => {
       <Navigation />
       <Header data={landingPageData.Header} />
       <ResearchGap />
+      <LiteratureReview />
       <Features data={landingPageData.Features} />
       {/* <About data={landingPageData.About} /> */}
+      <FieldVisit />
       <Milestones data={landingPageData.Milestones}/>
       <Documents data={landingPageData.Documents}/>
       <ProposalDocument data={landingPageData.ProposalDocument}/>
@@ -47,6 +55,7 @@ const App = () => {
       {/* <Gallery data={landingPageData.Gallery} /> */}
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       <Team data={landingPageData.Team} />
+      <References />
       <Contact data={landingPageData.Contact} />
     </div>
   );

@@ -24,11 +24,28 @@ export const Contact = (props) => {
 
     // Replace below with your own Service ID, Template ID, and Public Key from your EmailJS account
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_f5y3eos", "template_qqtd13v", e.target, "41uCdVRyJdflNv8M2")
       .then(
         (result) => {
           console.log(result.text);
           clearState();
+            // Show a simple toast message
+            const toast = document.createElement("div");
+            toast.textContent = "Message sent successfully!";
+            toast.style.position = "fixed";
+            toast.style.bottom = "30px";
+            toast.style.left = "50%";
+            toast.style.transform = "translateX(-50%)";
+            toast.style.background = "#333";
+            toast.style.color = "#fff";
+            toast.style.padding = "12px 24px";
+            toast.style.borderRadius = "4px";
+            toast.style.zIndex = "9999";
+            toast.style.fontSize = "16px";
+            document.body.appendChild(toast);
+            setTimeout(() => {
+            document.body.removeChild(toast);
+            }, 2500);
         },
         (error) => {
           console.log(error.text);
@@ -60,6 +77,7 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Name"
                         required
+                        value={name}
                         onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
@@ -74,6 +92,7 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Email"
                         required
+                        value={email}
                         onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
@@ -88,6 +107,7 @@ export const Contact = (props) => {
                     rows="4"
                     placeholder="Message"
                     required
+                    value={message}
                     onChange={handleChange}
                   ></textarea>
                   <p className="help-block text-danger"></p>
