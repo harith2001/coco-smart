@@ -12,7 +12,7 @@ export const Header = (props) => {
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h1> */}
-                <div class="neon">COCO-SMART </div>
+                <div class="neon">COCO SMART </div>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   href="#features"
